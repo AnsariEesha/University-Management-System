@@ -1,7 +1,7 @@
 # University-Management-System
 Built a database management system called “UNIVERSITY MANAGEMENT SYSTEM” incorporating the front-end with CSS and HTML and back-end with PHP and MySQL.
+Signup.php is the main file.
 # PROJECT DESCRIPTION:
-
 This “UNIVERSITY MANAGEMENT SYSTEM” will help the administrator to
 maintain and refurbish all the records of a university . It can manage the records of
 students by having all the information of a student like; name, age, birthdate, gender,
